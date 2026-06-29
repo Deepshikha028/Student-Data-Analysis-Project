@@ -35,3 +35,5 @@ It includes data loading, cleaning, transformation, analysis, and reporting.
 ## 🚀 How to Run
 ```bash
 python main.py
+## 🚀 Status
+Project successfully completed and uploaded on GitHub.
