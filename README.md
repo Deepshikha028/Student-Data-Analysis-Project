@@ -35,5 +35,17 @@ It includes data loading, cleaning, transformation, analysis, and reporting.
 ## 🚀 How to Run
 ```bash
 python main.py
-## 🚀 Status
-Project successfully completed and uploaded on GitHub.
+## 📊 Key Insights
+- Students with higher study hours perform better
+- Attendance strongly impacts marks
+- Top students have consistent study + attendance
+
+## 📈 Results Summary
+- Average performance varies around mid-high range
+- Study hours are the strongest factor
+- Attendance also plays important role
+
+## 🧠 Conclusion
+This project helps analyze student performance patterns using data science techniques.
+## 🌐 Live Dashboard
+https://student-data-analysis.streamlit.app/
