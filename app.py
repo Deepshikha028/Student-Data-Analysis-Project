@@ -1,4 +1,5 @@
 import streamlit as st
+import numpy as np
 from src.load_data import load_data
 from src.clean_data import clean_data
 from src.transform import transform_data
