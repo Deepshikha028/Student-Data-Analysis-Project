@@ -30,22 +30,42 @@ It includes data loading, cleaning, transformation, analysis, and reporting.
 - Average marks calculation
 - Top performing students identification
 
----
-
 ## 🚀 How to Run
+
+1. Clone the repository:
+```bash
+git clone <repository-link>
+```
+
+2. Go to the project folder:
+```bash
+cd Student-Data-Analysis-Project
+```
+
+3. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+4. Run the project:
 ```bash
 python main.py
-## 📊 Key Insights
-- Students with higher study hours perform better
-- Attendance strongly impacts marks
-- Top students have consistent study + attendance
+```
 
-## 📈 Results Summary
-- Average performance varies around mid-high range
-- Study hours are the strongest factor
-- Attendance also plays important role
+## 📊 Expected Output
 
-## 🧠 Conclusion
+### 📈 Key Insights
+- Students with higher study hours perform better.
+- Attendance strongly impacts marks.
+- Top students have consistent study habits and attendance.
+
+### 📋 Results Summary
+- Average performance varies around the mid-high range.
+- Study hours are the strongest factor.
+- Attendance also plays an important role.
+
+### 🎯 Conclusion
 This project helps analyze student performance patterns using data science techniques.
-## 🌐 Live Dashboard
+
+### 🌐 Live Dashboard
 https://student-data-analysis.streamlit.app/
